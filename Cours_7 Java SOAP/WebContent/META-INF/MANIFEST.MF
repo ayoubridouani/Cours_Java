@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: Cours_10 
+ Java 
+ WSDL 
+ Server.jar 
+ Cours_10 
+ Java 
+ WSDL 
+ Server.jar
+

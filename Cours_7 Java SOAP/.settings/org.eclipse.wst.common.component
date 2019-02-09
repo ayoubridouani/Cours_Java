@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="Cours_7 Java SOAP">
+                
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module deploy-path="/WEB-INF/lib" handle="module:/resource/Cours_10 Java WSDL Server/Cours_10 Java WSDL Server">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                
+        <property name="context-root" value="Cours_7_Java_SOAP"/>
+                
+        <property name="java-output-path" value="/Cours_7 Java SOAP/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
